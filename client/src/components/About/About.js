@@ -9,12 +9,9 @@ function About() {
       <div className="container">
         <div className="row">
           <div className="col-md-10">
-            <h2 className="text-uppercase mb-4 aboutTitle">About Divine design</h2>
-            <p>I am so excited to finally launch Divine Blooms Bowtique.</p>
-            <p>I have been a busy body these past couple of weeks working on every little detail of this project that has become very dear to me.</p>
-            <p>
-              I love making hair bows for my girl and was always asked to sell them but had not wanted to put my self out there like that for silly reasons. (we all deal with our own insecurities) I finally felt it was time to step out of my comfort zone and do something that I love. Please join me to be part of this  new adventure created by God.
-              </p>
+            <h2 className="text-uppercase mb-4 aboutTitle">E-Cloud IT</h2>
+            <p>El arte de desarrollar aplicaciones de software por parte de nuestra compañia esta fundamentado en la aplicacion de tecnicas y procedimientos que permitan de forma coherente abarcar cada uno de los requerimientos presentados dentro del entorno de cada uno de nuestros clientes.</p>
+            <p>Nuestros patrones de arquitectura proporcionan un marco de referencia dentro de la construccion de nuestras aplicaciones de software, de acuerdo a cada uno de los entornos presentados; nuestro grupo de trabajo pueden compartir una misma linea de trabajo y asi poder cubrir todos los objetivos y restriciones presentados dentro de la aplicacion.</p>
           </div>
         </div>
       </div>
