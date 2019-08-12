@@ -75,11 +75,11 @@ function Footer() {
             <li>
               <h5 className="my-4">Siguenos en nuestras redes sociales</h5>
             </li>
-            <li className="list-inline-item"><a href="https://www.facebook.com/Divine-Blooms-Bowtique-102340111123527/"
+            <li className="list-inline-item"><a href="#!"
               className="fab fa-facebook fa-2x"></a></li>&nbsp;
-            <li className="list-inline-item"><a href="https://www.etsy.com/shop/DivineBloomsbowtique"
+            <li className="list-inline-item"><a href="#!"
               className="fab fa-instagram fa-2x"></a></li>
-            <li className="list-inline-item"><a href="https://www.etsy.com/shop/DivineBloomsbowtique"
+            <li className="list-inline-item"><a href="#!"
               className="fab fa-twitter fa-2x"></a></li>
           </ul>
         </div>
@@ -87,7 +87,7 @@ function Footer() {
         {/* Copyright*/}
         <div className="footer-copyright text-center">
           <div className="container-fluid py-3">
-            © 2019 Copyright: <a href="https://www.DBBowtique.com">e-cloud IT</a>
+            © 2019 Copyright: <a href="https://www.e-cloudit.com">e-cloud IT</a>
           </div>
         </div>
         {/* /.Copyright*/}

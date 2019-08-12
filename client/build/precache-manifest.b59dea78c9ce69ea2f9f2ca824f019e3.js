@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "44255903af48d61e5132d37f35a535c3",
+    "revision": "fceb5bc0d98f24fd31cbdddc79b0c4ef",
     "url": "/index.html"
   },
   {
-    "revision": "ddf0fb0c8710d7a96024",
-    "url": "/static/css/main.7897b8b2.chunk.css"
+    "revision": "90b53a335ba228135863",
+    "url": "/static/css/main.9523e623.chunk.css"
   },
   {
     "revision": "0972de7cfca864a3ef8c",
     "url": "/static/js/2.264c3031.chunk.js"
   },
   {
-    "revision": "ddf0fb0c8710d7a96024",
-    "url": "/static/js/main.e99f6c8d.chunk.js"
+    "revision": "90b53a335ba228135863",
+    "url": "/static/js/main.2658c861.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fa16206027d41d5fcd52465da666feda",
     "url": "/static/media/fondo3.fa162060.png"
+  },
+  {
+    "revision": "82d37f7b7f0880983aed62eddc235a13",
+    "url": "/static/media/fondobase.82d37f7b.jpg"
   },
   {
     "revision": "fb7c984983d93dc13c472a8cf159867d",

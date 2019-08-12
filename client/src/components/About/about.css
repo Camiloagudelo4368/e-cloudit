@@ -26,8 +26,8 @@ h1, h2, h3, ul {
 }
 
 .titleLanguages {
-    color: #f26622;
     color: #111111;
+    color: #f26622;
     font-size: 32px;
     font-weight: 600;
     font-family: 'Stylish', sans-serif;
@@ -37,6 +37,7 @@ h1, h2, h3, ul {
     background-image: url("/img/logo/m3.jpg");
     background-image: url("/img/logo/m3.png");
     background-image: url("/img/logo/m2whitewatermark.png");
+    background-image: url("./img/fondobase.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -48,13 +49,16 @@ h1, h2, h3, ul {
 .aboutTitle {
     font-size: 2.5rem;
     color: #111111;
+    color: aliceblue;
     font-weight: bold;
 }
 
 .aboutContainer p {
     font-size: 1.8rem;
-    color: #888888;
     color: #111111;
+    color: #888888;
+    color: aliceblue;
+
 }
 
 /* Media query */
