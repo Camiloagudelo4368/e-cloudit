@@ -12,8 +12,8 @@ function Footer() {
             {/* First column*/}
             <div className="col-md-3 offset-md-1">
               <h5 className="font-weight-bold text-uppercase mb-4">E-Cloud IT S.A.S</h5>
-              <p>
-              Diseñamos nuestras aplicaciones de acuerdo a las arquitecturas actuales del mercado global, unificando el Hardware y Software, Componentes, Modulos, Datos, con la finalidad de integrar de manera mas eficiente y eficaz un producto de muy alta calidad; el cual pueda satisfacer los requerimientos solicitados por nuestros clientes.
+              <p className="text-justify">
+                Diseñamos nuestras aplicaciones de acuerdo a las arquitecturas actuales del mercado global, unificando el Hardware y Software, Componentes, Modulos, Datos, con la finalidad de integrar de manera mas eficiente y eficaz un producto de muy alta calidad; el cual pueda satisfacer los requerimientos solicitados por nuestros clientes.
               </p>
             </div>
             {/* /.First column*/}
@@ -57,8 +57,8 @@ function Footer() {
         {/* /.Footer Links*/}
         <hr></hr>
         {/* Call to action*/}
-        <div className="call-to-action text-center">
-          <h4 className="my-4">NUESTROS ALIADOS</h4>
+        <div className="call-to-action text-center bg-white">
+          <h4 className="my-4">NUESTROS CLIENTES</h4>
           <ul className="list-unstyled list-inline mb-4">
             <li>
               <h5 className="my-4"></h5>
