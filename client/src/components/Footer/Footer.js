@@ -4,9 +4,22 @@ import "./Footer.css";
 function Footer() {
   return (
     <div>
+      <div className="call-to-action text-center">
+        <h4 className="my-4">NUESTROS CLIENTES</h4>
+        <ul className="list-unstyled list-inline mb-4 bg-white">
+          <li>
+            <h5 className="my-4"></h5>
+          </li>
+          <li className="list-inline-item"><img srcSet="/img/clients/clientes_color3.png">
+          </img>
+          </li>
+        </ul>
+      </div>
       {/* Footer*/}
       <footer className="page-footer text-center text-md-left pt-4">
         {/* Footer Links*/}
+
+
         <div className="container-fluid">
           <div className="row">
             {/* First column*/}
@@ -57,18 +70,6 @@ function Footer() {
         {/* /.Footer Links*/}
         <hr></hr>
         {/* Call to action*/}
-        <div className="call-to-action text-center bg-white">
-          <h4 className="my-4">NUESTROS CLIENTES</h4>
-          <ul className="list-unstyled list-inline mb-4">
-            <li>
-              <h5 className="my-4"></h5>
-            </li>
-            <li className="list-inline-item"><img srcSet="/img/clients/clientes_color3.png">
-            </img>
-            </li>
-          </ul>
-        </div>
-
         <div className="call-to-action text-center">
           <h4 className="my-4"></h4>
           <ul className="list-unstyled list-inline mb-4">
